@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/R-Amaon-Clone/static/css/main.78c7c615.chunk.css",
-    "main.js": "/R-Amaon-Clone/static/js/main.4fda30f2.chunk.js",
-    "main.js.map": "/R-Amaon-Clone/static/js/main.4fda30f2.chunk.js.map",
+    "main.js": "/R-Amaon-Clone/static/js/main.cb0cc055.chunk.js",
+    "main.js.map": "/R-Amaon-Clone/static/js/main.cb0cc055.chunk.js.map",
     "runtime-main.js": "/R-Amaon-Clone/static/js/runtime-main.445adb13.js",
     "runtime-main.js.map": "/R-Amaon-Clone/static/js/runtime-main.445adb13.js.map",
     "static/js/2.ecad63df.chunk.js": "/R-Amaon-Clone/static/js/2.ecad63df.chunk.js",
     "static/js/2.ecad63df.chunk.js.map": "/R-Amaon-Clone/static/js/2.ecad63df.chunk.js.map",
     "index.html": "/R-Amaon-Clone/index.html",
-    "precache-manifest.cb9ab2f87a5d7ac75dd38db142e2a5d6.js": "/R-Amaon-Clone/precache-manifest.cb9ab2f87a5d7ac75dd38db142e2a5d6.js",
+    "precache-manifest.4bcfc08bad422e9e1d3c82f884ded8dc.js": "/R-Amaon-Clone/precache-manifest.4bcfc08bad422e9e1d3c82f884ded8dc.js",
     "service-worker.js": "/R-Amaon-Clone/service-worker.js",
     "static/css/main.78c7c615.chunk.css.map": "/R-Amaon-Clone/static/css/main.78c7c615.chunk.css.map",
     "static/js/2.ecad63df.chunk.js.LICENSE.txt": "/R-Amaon-Clone/static/js/2.ecad63df.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.445adb13.js",
     "static/js/2.ecad63df.chunk.js",
     "static/css/main.78c7c615.chunk.css",
-    "static/js/main.4fda30f2.chunk.js"
+    "static/js/main.cb0cc055.chunk.js"
   ]
 }
